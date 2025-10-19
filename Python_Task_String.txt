@@ -1,0 +1,21 @@
+String Exercises Questions
+
+1. Extract the character 'o' from the string s = "Hello World" using indexing.
+
+2. Extract the last character of the string s = "Hello World" using negative indexing.
+
+3. Extract the substring "World" from s = "Hello World.".
+
+4. Reverse the string s = "Python" using slicing.
+
+5. Extract every second character from the string s = "PythonProgramming.".
+
+6. Extract the substring "Prga" from s = "Programming" by skipping one character.
+
+7. Create a new string without the first and last characters of s = "Programming.".
+
+8. Write code to extract the first three characters of s = "HelloWorld" using slicing.
+
+9. Write code to extract the last three characters of s = "HelloWorld" using negative indexing and slicing.
+
+    10. Create a new string from s = "DataScience" by taking characters from alternate indices.

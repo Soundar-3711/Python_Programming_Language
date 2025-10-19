@@ -1,0 +1,9 @@
+1. Check if a number is positive, negative, or zero.
+2. Check if a number is even or odd
+3. Check if a year is a leap year or not.
+4. Determine the largest of three numbers.
+5. Determine the smallest of three numbers.
+6. Check if a number is divisible by both 5 and 11.
+7. Determine the grade based on marks.
+8. Check if a triangle is equilateral, isosceles, or scalene.
+9. Determine the largest of four numbers.

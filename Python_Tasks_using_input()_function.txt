@@ -1,0 +1,10 @@
+1. Write a program to take length and width of a rectangle as input and print its area.
+2. Write a program to take radius of a circle as input and print its circumference.
+3. Write a program to take radius of a sphere as input and print its volume.
+4. Write a program to take temperature in Celsius as input and print its equivalent in Fahrenheit.
+5. Write a program to take temperature in Fahrenheit as input and print its equivalent in Celsius.
+6. Write a program to take base and height of a triangle as input and print its area.
+7. Write a program to take radius and height of a cylinder as input and print its volume.
+8. Write a program to take radius of a circle as input and print its area.
+9. Write a program to take a number as input and print its square.
+10. Write a program to take a number as input and print its cube.
